@@ -21,13 +21,13 @@
 
 **Fechas y temas de las exposiciones:**
 
-- Lunes 16 de enero: grupo 1, Formación galáctica
-- Miércoles 18 de enero:  grupo 5, Formación estelar
-- Lunes 23 de enero: grupo 2, Astrobiología
-- Miércoles 25 de enero: grupo 6, Agujeros negros
-- Lunes 30 de enero: grupo 7, Materia oscura
-- Miércoles 1 de febrero: grupo 3, Fuentes de rayos cósmicos
-- Lunes 6 de febrero: grupo 4, Arqueo-Astronomía
+- Lunes 16 de enero: grupo 1, Formación galáctica (Laura MOreno y Leonel Araque)
+- Miércoles 18 de enero:  grupo 5, Formación estelar (Miguel Siza y Keren)
+- Lunes 23 de enero: grupo 2, Astrobiología (Isabella Callejas y Jaiber Barajas)
+- Miércoles 25 de enero: grupo 6, Agujeros negros (Julian Calderón y Luis Duarte)
+- Lunes 30 de enero: grupo 7, Materia oscura (Daniel Calderón y Jesus Jaimes)
+- Miércoles 1 de febrero: grupo 3, Fuentes de rayos cósmicos (Maria Silva y Angelica Vanegas)
+- Lunes 6 de febrero: grupo 4, Arqueo-Astronomía (Juan Sepulveda y Dayan Gómez)
 
 **Exámenes:**
 - Primer examen 12 de diciembre
