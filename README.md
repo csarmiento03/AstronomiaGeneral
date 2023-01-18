@@ -33,7 +33,7 @@
 - Lunes 6 de febrero: grupo 11, Ondas gravitacionales (Camilo Forero)
 - Miércoles 8 de febrero: grupo 8, El sol, (Kevin Florez y Kelly Salazar)
 - Miércoles 8 de febrero: grupo 9, Exoplanetas (Jesus Vargaz y Andrés Perdomo)
-- Miércoles 8 de febrero: grupo 10, Formación galactica (Mauricio Bareño y Laura Ortiz)
+- Miércoles 8 de febrero: grupo 10, Multimensajeros cósmicos (Mauricio Bareño y Laura Ortiz)
 
 **Exámenes:**
 - Primer examen 12 de diciembre
