@@ -38,3 +38,5 @@
 **Exámenes:**
 - Primer examen 12 de diciembre
 - Segundo examen 13 de febrero
+
+correo: christian.sarmiento@correo.uis.edu.co
