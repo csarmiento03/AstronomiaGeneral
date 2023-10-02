@@ -15,6 +15,12 @@ correo: christian.sarmiento@correo.uis.edu.co
 
 ### Cosmos, hacia la Vía Láctea, y más allá.
 - https://www.dailymotion.com/video/x2wp4wz
+
+## Fechas importantes:
+
+- 2.10.23, Introducción del comentario crítico
+- 30.10.23, Primer borrador
+- 27.10.23, Texto final
   
 
 
