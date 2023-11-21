@@ -20,7 +20,7 @@ correo: christian.sarmiento@correo.uis.edu.co
 
 - 2.10.23, Introducción del comentario crítico
 - 30.10.23, Primer borrador
-- 27.10.23, Texto final
+- 05.12.23, Texto final
 
 ## Lista y roden de las charlas sobre el libro:
 
